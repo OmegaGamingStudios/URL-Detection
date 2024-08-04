@@ -6,6 +6,6 @@ Then we used it as a web extension.
 
 
 Collaborators:
-Sanjay Jithesh M P
-Midhun Nath K R
+Sanjay Jithesh M P,
+Midhun Nath K R,
 Vaishnav Suresh Kumar
